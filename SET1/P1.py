@@ -2,7 +2,7 @@ while True:
     ch=int (input("Enter your choice:\n1.Fahrenheit\n2.Celsius\n3.Exit\n"))
     if ch==1:
          far = float(input("\nEnter the temperature in Fahrenheit: "))
-         cel (far - 32) * (5/9)
+         cel = (far - 32) * (5/9)
          print("\nThe temperature in Celsius is: (:.2f}°C".format (cel))
     elif ch==2:
          cel = float (input("\nEnter the temperature in Celsius: "))
