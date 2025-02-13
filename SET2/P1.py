@@ -1,4 +1,4 @@
-import random
+1import random
 
 
 class Customer:
